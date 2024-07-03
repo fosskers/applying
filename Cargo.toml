@@ -7,6 +7,6 @@ description = "Apply functions in method-position."
 homepage = "https://codeberg.org/fosskers/applying"
 repository = "https://codeberg.org/fosskers/applying"
 readme = "README.md"
-license = "LGPL"
+license = "LGPL-3.0-only"
 keywords = ["apply", "function"]
 categories = ["rust-patterns"]
