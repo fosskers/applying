@@ -2,4 +2,11 @@
 name = "applying"
 version = "1.0.0"
 edition = "2021"
-
+authors = ["Colin Woodbury <colin@fosskers.ca>"]
+description = "Apply functions in method-position."
+homepage = "https://codeberg.org/fosskers/applying"
+repository = "https://codeberg.org/fosskers/applying"
+readme = "README.md"
+license = "LGPL"
+keywords = ["apply", "function"]
+categories = ["rust-patterns"]
