@@ -31,7 +31,8 @@
 //! let resp = bar(resp);
 //! ```
 //!
-//! We shouldn't have to write code that looks like this.
+//! This code is fragile to ownership and refactors. We shouldn't have to write
+//! code that looks like this.
 //!
 //! # The Solution
 //!
